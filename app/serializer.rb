@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class Serializer
   class << self
     attr_reader :attrs
